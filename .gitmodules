@@ -1,3 +1,6 @@
 [submodule "todo-fe"]
 	path = todo-fe
 	url = https://github.com/EvaldasP/todo-fe
+[submodule "todo-be"]
+	path = todo-be
+	url = https://github.com/EvaldasP/todo-be

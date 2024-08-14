@@ -34,10 +34,14 @@ cd todo-app
 
 ```bash
 cd todo-be
+git checkout main
+git pull
 npm install
 ```
 ```bash
 cd todo-fe
+git checkout main
+git pull
 npm install
 ```
 

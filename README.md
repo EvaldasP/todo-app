@@ -51,7 +51,7 @@ cd todo-fe
 ng serve
 ```
 Database already setuped (for testing only)
-## Hardoced Users
+## Hardcoded Users
 ```bash
 username: 'alice' password: 'password1'
 username: 'bob' password: 'password2'

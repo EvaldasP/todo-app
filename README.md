@@ -29,6 +29,7 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/EvaldasP/todo-app.git
 cd todo-app
+git submodule update --init
 ```
 ### Install Dependencies
 

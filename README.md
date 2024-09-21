@@ -70,5 +70,5 @@ After running the backend, you can view the API docs at:
 http://localhost:3000/api
 ```
 ## 🛠 Future Improvements
-- Registration (In Progress)
+- ~~Registration (Done)~~
 - Pagination.

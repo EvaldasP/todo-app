@@ -7,7 +7,7 @@ Welcome to **To-Do App**! This project is a simple and efficient to-do list appl
 - **Task Management**: Create, update, and delete tasks.
 - **Task Sorting and Filtering**: Organize tasks.
 - **Responsive UI**: Optimized for both desktop and mobile devices.
-- **Authentication**: Secure login.
+- **Authentication**: Secure login and register.
   
 ## 🛠 Tech Stack
 
